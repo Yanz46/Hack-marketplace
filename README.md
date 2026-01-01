@@ -7,8 +7,8 @@ CARA PASANG🚀☕
 
 2. Pasang python di termux
 ```shell
-termux-change-repo
 pkg upgrade && pkg update
+termux-change-repo
 termux-setup-storage
 pkg install python
 pkg install git
