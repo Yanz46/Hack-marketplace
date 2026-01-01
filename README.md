@@ -6,6 +6,7 @@ CARA PASANG🚀☕
 > https://f-droid.org/repo/com.termux_1022.apk
 
 2. Pasang python di termux
+```shell
   * termux-change-repo
   * pkg upgrade && pkg update
   * termux-setup-storage
@@ -14,5 +15,5 @@ CARA PASANG🚀☕
   * git clone https://github.com/Yanz46/Hack-marketplace
   * cd Hack-marketplace
  * python coin.py
-
+```
 tutorial : https://youtu.be/ZXcf3sP1aEs?si=79moT06nbkIZCj1Z
