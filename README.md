@@ -1,1 +1,19 @@
 # Hack-marketplace
+
+UPDATE HACK ADDON VIA TERMUX☕
+cara pasang🚀☕
+
+1. Instal termux
+> https://f-droid.org/repo/com.termux_1022.apk
+
+2. Pasang python di termux
+  * termux-change-repo
+  * pkg upgrade && pkg update
+  * termux-setup-storage
+  * pkg install python
+  * pkg install git
+  * git clone https://github.com/Yanz46/Hack-marketplace
+  * cd Hack-marketplace
+ * python coin.py
+
+tutorial : https://youtu.be/ZXcf3sP1aEs?si=79moT06nbkIZCj1Z
