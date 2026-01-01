@@ -1,7 +1,6 @@
 # Hack-marketplace
 
-UPDATE HACK ADDON VIA TERMUX☕
-cara pasang🚀☕
+CARA PASANG🚀☕
 
 1. Instal termux
 > https://f-droid.org/repo/com.termux_1022.apk
