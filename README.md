@@ -2,12 +2,12 @@
 
 ![thumnail](image.png)
 
-CARA PASANG🚀☕
+**CARA PASANG🚀☕**
 
-1. Instal termux
+1. **Instal termux**
 > https://f-droid.org/repo/com.termux_1022.apk
 
-2. Pasang python di termux
+2. **Pasang python di termux**
 ```shell
 pkg upgrade && pkg update
 termux-change-repo
