@@ -1,6 +1,6 @@
 # Hack-marketplace
 
-![thumnail](github.githubassets.com)
+![thumnail](image.png)
 
 CARA PASANG🚀☕
 
