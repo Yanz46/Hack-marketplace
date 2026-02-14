@@ -1,6 +1,6 @@
 # Hack-marketplace
 
-![thumnail](image.png)
+![thumnail](p.png)
 
 **CARA PASANG🚀☕**
 
